@@ -1,1 +1,5 @@
 # Bioinformatics-project-Aneela-Noor-
+Aneela Noor
+ID# 04032213001
+tools used ( NCBI,Expassy,protoparam,Uniport,Cello,String,Clustal alignment and Pfam )
+Summary: An unknown DNA sequence was analyzed using an integrated bioinformatics pipeline to identify its gene, transcript features, protein properties, and biological function. ORF analysis revealed a single long coding region encoding a 411 amino acid protein. BLAST analysis identified the sequence as a predicted patatin-like protein from Solanum lycopersicum. mRNA analysis confirmed the presence of an AUG start codon, while no canonical Kozak sequence or polyadenylation signal was detected. Protein characterization showed a stable protein with conserved patatin-like phospholipase domains. Secondary structure prediction indicated dominance of alpha helices and random coils. Subcellular localization analysis suggested cytosolic distribution. Phylogenetic and interaction analyses supported the protein’s conserved role in lipid metabolis
